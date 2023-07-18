@@ -1,1 +1,1 @@
-# asteroid-predcition
+# asteroid-prediction
